@@ -24,3 +24,6 @@ class Comercios(models.Model):
     icone = models.ImageField(upload_to=upload_imagem, blank=True)
     imagem1 = models.ImageField(upload_to=upload_imagem, blank=True)
     imagem2 = models.ImageField(upload_to=upload_imagem, blank=True)
+    imagem3 = models.ImageField(upload_to=upload_imagem, blank=True)
+    imagem4 = models.ImageField(upload_to=upload_imagem, blank=True)
+
