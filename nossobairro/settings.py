@@ -16,7 +16,7 @@ SECRET_KEY = 'jby3okjt_9b8ke-d^sli88w803@ch08$4#nmv310stji)^b8u-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['nosso-bairro.herokuapp.com', 'api.nossobairro.site']
+ALLOWED_HOSTS = ['nosso-bairro.herokuapp.com', 'api.nossobairro.site', 'comercios.herokuapp.com']
 
 
 # Application definition
